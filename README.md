@@ -1,5 +1,6 @@
 ### Hi there 😎
 
+
 I am a computer engineering student at Kocaeli University and I have been coding since 2017. Additionally I like playing basketball and listening rock music.
 
 ### Connect with me:
@@ -20,8 +21,6 @@ I am a computer engineering student at Kocaeli University and I have been coding
 <img  align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="27px"/>
 
 </p>
-
-
 
 <br />
 <br />
@@ -45,22 +44,4 @@ I am a computer engineering student at Kocaeli University and I have been coding
 <!--
 **ey-up/ey-up** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-[linkedin]: https://linkedin.com/in/codeSTACKr
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/EyupOkur?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FEyupOkur&screen_name=EyupOkur)
-
-
-![linkedin](https://img.shields.io/twitter/url?color=%231DA1F2&label=linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fey-up%2F)
 -->
