@@ -1,7 +1,6 @@
 ### Hi there 😎
 
 
-I am a computer engineering student at Kocaeli University and I have been coding since 2017. Additionally I like playing basketball and listening rock music.
 
 ### Connect with me:
 
