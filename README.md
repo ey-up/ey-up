@@ -22,7 +22,7 @@
 
 <img  align="left" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="reactnative" width="40px" height="40px"/>
 
-<img  align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="27px"/>
+<img  align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40px"/>
 
 </p>
 
